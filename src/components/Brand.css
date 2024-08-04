@@ -1,0 +1,47 @@
+.brand {
+  text-align: center;
+  padding: 20px;
+}
+
+.brand img {
+  width: 200px;
+  height: auto;
+}
+
+.brand h2 {
+  margin: 20px 0;
+}
+
+.shoe-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.shoe {
+  width: 150px;
+  text-align: center;
+}
+
+.shoe img {
+  width: 100%;
+  height: auto;
+}
+
+.shoe p {
+  margin: 10px 0 0;
+}
+
+.brand-website {
+  margin-top: 20px;
+}
+
+.brand-website a {
+  color: blue;
+  text-decoration: none;
+}
+
+.brand-website a:hover {
+  text-decoration: underline;
+}

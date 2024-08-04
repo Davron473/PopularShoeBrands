@@ -1,0 +1,40 @@
+.home {
+  text-align: center;
+}
+
+.brand-logos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.brand-logo {
+  text-align: center;
+}
+
+.brand-logo img {
+  width: 150px; 
+  height: auto;
+}
+
+.brand-logo p {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.welcome-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.download-image {
+  margin-top: 20px;
+}
+
+.shoes img {
+  width:350px; 
+  height: auto;
+  cursor: pointer;
+}
